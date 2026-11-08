@@ -4,8 +4,8 @@
 
 # VALAPP Desktop — Modern Companion for VALORANT
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Main-Zenato/VALAPP-desktop/releases/latest)
-![Downloads](https://img.shields.io/github/downloads/Main-Zenato/VALAPP-desktop/total?cacheSeconds=0)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Zenatoo/VALAPP-desktop/releases/latest)
+![Downloads](https://img.shields.io/github/downloads/Zenatoo/VALAPP-desktop/total?cacheSeconds=0)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 ![Built with Tauri](https://img.shields.io/badge/Tauri-2-FFC131?logo=tauri&logoColor=white)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/6BZekAEqDD)
@@ -31,7 +31,7 @@
 
 ---
 
-> **What's new:** every version is detailed on the [releases page](https://github.com/Main-Zenato/VALAPP-desktop/releases), and in-app under **Settings → What's new**, in your language.
+> **What's new:** every version is detailed on the [releases page](https://github.com/Zenatoo/VALAPP-desktop/releases), and in-app under **Settings → What's new**, in your language.
 
 ---
 
@@ -327,7 +327,7 @@ Your data stays on your machine.
 
 ### Installation (2 minutes)
 
-1. Download from [Releases](https://github.com/Main-Zenato/VALAPP-desktop/releases/latest)
+1. Download from [Releases](https://github.com/Zenatoo/VALAPP-desktop/releases/latest)
 2. Run `VALAPP Desktop_x.x.x_x64-setup.exe`
    - Windows may warn "Publisher could not be verified" → click **More info** → **Run anyway**
 3. Let it install (~30 seconds)
